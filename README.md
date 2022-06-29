@@ -3,28 +3,21 @@
 
 ## I'm Renan Zanoti! :wave:
 
- 
-:computer: I'm Front-End Developer!
+:house_with_garden: I’m from Brazil
 
-:house_with_garden: I’m from Brazil.
+:computer: I'm a front-end developer specializing in React
 
-:books: I’m currently learning everything.
-
-:star2: [2019] - Achievements: start my first job as a developer.
-
-:outbox_tray: [2021] - Goals: improve my knowledge of front and backend web development.
-
-:outbox_tray: [202X] - Goal: be a full stack developer and ui ux engineer
+:heartbeat: In love with what i do
 
  
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanzan)](https://github.com/renanzan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanzan/)](https://www.linkedin.com/in/renanzan/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanzan)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanzan/)
+[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/renanzan)
 
-
-- Thanks for visiting. :smile:
+Thanks for visiting. :smile:
 
 
 ## Language and Tools
